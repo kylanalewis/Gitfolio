@@ -1,4 +1,4 @@
-## H2 Personal Webpage
+## Personal Webpage
 Webpage written in JavaScript by me for you? 
 
 -Running on Raspberry Pi :see_no_evil:
