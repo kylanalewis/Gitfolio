@@ -1,1 +1,1 @@
-echo "web: gitfolio run" > Procfile
+web: node app.js
