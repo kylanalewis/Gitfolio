@@ -1,1 +1,1 @@
-web: gitfolio run -p 8080
+web: node run.js
