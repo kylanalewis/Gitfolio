@@ -1,1 +1,1 @@
-web: gitfolio run 
+web: gitfolio run -p 8080
